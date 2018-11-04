@@ -124,7 +124,6 @@ public class LandingScreenActivity extends AppCompatActivity {
 
                 URL url = new URL(urls[0]);
                 URLConnection urlConnection = url.openConnection();
-                urlConnection.setDoInput(true);
                 BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(urlConnection.getInputStream()));
                 String inputLine;
                 StringBuilder stringBuilder = new StringBuilder();
