@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Count WebPage Content</string>
+    <string name="hit">Hit</string>
+    <string name="count">Count</string>
+    <string name="colon">:</string>
+    <string name="error">Error</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="wrong_url">Please Check Your URL</string>
+    <string name="enter_input">Enter Input</string>
+    <string name="url">URL</string>
+</resources>
